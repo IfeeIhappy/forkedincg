@@ -5,6 +5,11 @@
         "location": "https://www.google.com"
     },
     {
+        "title": "Roblox",
+        "img": "./img/apps/roblox.jpg",
+        "location": "https://now.gg/play/roblox-corporation/5349/roblox"
+    },
+    {
         "title": "Youtube",
         "img": "./img/apps/yt.png",
         "location": "https://www.youtube.com"
